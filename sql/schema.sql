@@ -1,4 +1,3 @@
-DROP DATABASE IF EXISTS product_adoption;
 CREATE DATABASE product_adoption;
 
 USE product_adoption;
@@ -71,7 +70,6 @@ OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 LINES;
 
-DROP TABLE IF EXISTS product_operations;
 
 CREATE TABLE product_operations (
 
