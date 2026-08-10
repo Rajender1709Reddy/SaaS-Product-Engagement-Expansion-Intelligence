@@ -57,8 +57,8 @@ The final dashboard brings these different areas together into an interactive bu
 
 ### Dataset Files
 
-- `product_operations_v2_20000.csv`
-- `customer_profile_v2_5000.csv`
+- `product_operations.csv`
+- `customer_profile.csv`
 
 ### Dataset Size
 
