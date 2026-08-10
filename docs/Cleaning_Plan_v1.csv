@@ -1,0 +1,10 @@
+Column,Issue,Action
+Missing Values,Null values,Impute using mode/median
+Duplicate Records,Duplicate IDs,Keep first record and remove duplicates
+Date Columns,Wrong datatype,Convert to datetime
+Discount Percent,Invalid percentage,Replace invalid values
+Tax Amount,Negative values,Validate and correct
+Final Amount Paid,Negative values,Validate and correct
+Plan Category,Inconsistent labels,Standardize category names
+Payment Status,Inconsistent labels,Standardize category names
+Subscription Status,Inconsistent labels,Standardize category names
