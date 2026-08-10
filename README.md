@@ -73,7 +73,8 @@ SaaS-Product-Engagement-Expansion-Intelligence/
 ## Overview
 
 Provides a high-level summary of business performance through KPIs and executive metrics.
-<img width="1162" height="723" alt="Overview" src="https://github.com/user-attachments/assets/9069182c-845f-4709-acda-76bc1be2aeb6" />
+<img width="1153" height="702" alt="overview " src="https://github.com/user-attachments/assets/bf0d437d-e5f7-4b24-8913-fcadb2abd6da" />
+
 
 
 ### KPIs
@@ -96,7 +97,8 @@ Includes:
 - Revenue Trends
 - Average Payment Trends
 - Customer Growth Analysis
-- <img width="1153" height="702" alt="Subscription ststus " src="https://github.com/user-attachments/assets/1f87e8ab-d99e-4aff-b316-4b6a5b5bcc40" />
+<img width="1162" height="723" alt="Subscription Trends" src="https://github.com/user-attachments/assets/82858616-1643-4e86-b556-afd147e237e3" />
+
 
 
 ---
